@@ -1,0 +1,6 @@
+framework module Pods_podsTextSwift {
+  umbrella header "Pods-podsTextSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
